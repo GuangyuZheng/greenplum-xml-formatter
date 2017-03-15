@@ -1,7 +1,7 @@
 # greenplum-xml-formatter
 
 使用C对Greenplum数据库进行扩展，使得Greenplum用户无需编写Transform，即可通过只读/只写外部表对XML数据进行读/写 
-感谢https://github.com/dewoods/greenplum-json-formatter的分享 
+感谢https://github.com/dewoods/greenplum-json-formatter 的分享 
 
 安装方法：
 需要Mini-XML库
