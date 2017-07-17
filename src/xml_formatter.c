@@ -18,7 +18,7 @@ PG_FUNCTION_INFO_V1( xml_formatter_import );
 PG_FUNCTION_INFO_V1( xml_formatter_export );
 
 Datum xml_formatter_import( PG_FUNCTION_ARGS );
-Datum json_formatter_write( PG_FUNCTION_ARGS );
+Datum xml_formatter_write( PG_FUNCTION_ARGS );
 
 typedef struct {
     int             ncols;
